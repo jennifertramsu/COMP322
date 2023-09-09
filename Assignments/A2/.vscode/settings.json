@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.lt": "coffeescript",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "new": "cpp"
+    }
+}
